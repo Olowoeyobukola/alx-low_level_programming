@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 _ Check holberton
+ * print_alphabet_x10 - Check holberton
  * Description: function uses _putchar function to print
  * alphabet in lower case 10 times
  * Return: Nothing
